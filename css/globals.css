@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Krona+One:400|Work+Sans:400,600");
+* {
+  box-sizing: border-box;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.hidden,
+.hidden * {
+  visibility: hidden;
+  pointer-events: none;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}

@@ -1,0 +1,73 @@
+:root {
+  --antique-brass: #d09e74;
+  --black: #000000;
+  --cameo: #dcb799;
+  --sapling: #e2cca1;
+  --wheatfield: #f4e8cc;
+  --white: #ffffff;
+  --zinnwaldite: #e7c1b0;
+
+  --font-size-l: 36px;
+  --font-size-m: 24px;
+  --font-size-s: 18px;
+  --font-size-xl: 48px;
+
+  --font-family-krona_one: "Krona One", Helvetica;
+  --font-family-work_sans: "Work Sans", Helvetica;
+}
+.worksans-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.kronaone-normal-wheatfield-36px {
+  color: var(--wheatfield);
+  font-family: var(--font-family-krona_one);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+.worksans-normal-sapling-24px {
+  color: var(--sapling);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.worksans-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.kronaone-normal-antique-brass-48px {
+  color: var(--antique-brass);
+  font-family: var(--font-family-krona_one);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+.kronaone-normal-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-krona_one);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+.kronaone-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-krona_one);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+.worksans-semi-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
