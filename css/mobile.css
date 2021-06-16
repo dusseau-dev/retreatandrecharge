@@ -316,6 +316,7 @@
   position: relative;
   text-align: left;
   width: 504px;
+padding: 3%;
 }
 .desktop .lorem-ipsum-dol-mmodo-consequat-9ujrYw {
   background-color: transparent;
@@ -577,6 +578,7 @@
   text-align: left;
   top: 71px;
   width: 320px;
+  padding: 3%;
 }
 .mobile .bali-indonesia-edyL5j {
   background-color: transparent;
@@ -732,7 +734,6 @@
   overflow: hidden;
   position: absolute;
   top: 0px;
-  width: 414px;
 }
 .mobile .last-name-edyL5j {
   background-color: transparent;
@@ -793,6 +794,7 @@
   text-align: left;
   top: 1076px;
   width: 346px;
+  padding: 3%;
 }
 .mobile .mask-group-edyL5j {
   background-color: transparent;
@@ -814,7 +816,7 @@
   background-color: transparent;
   flex-shrink: 1;
   height: 315px;
-  margin-top: 52px;
+  margin-top: 10%;
   position: relative;
   width: 356px;
 }
@@ -979,7 +981,7 @@
   mix-blend-mode: normal;
   object-fit: cover;
   position: relative;
-  width: 249px;
+  margin: 5% 1% ;
 }
 .mobile .retreatandrechargemark-edyL5j {
   background-color: transparent;
@@ -1039,6 +1041,7 @@
   text-align: left;
   top: 991px;
   width: 363px;
+padding: 3%;
 }
 .mobile .want-to-learn-more-edyL5j {
   background-color: transparent;
